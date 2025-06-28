@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Ammar
 
-<!--
-**Ammar-Dev7/Ammar-Dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Flutter Developer** | Dart, Firebase & REST APIs  | Passionate about Clean Code  
+📱 I build high-performance iOS & Android apps with beautiful UI/UX  
+🌱 Currently learning: System Design, Animations & GitHub Actions  
+💬 Ask me about Flutter, Firebase, or Mobile App Dev  
+📫 Reach me at: your. ammarop007@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Mobile:** Flutter, Dart
+- **Backend/Database:** Firebase, REST APIs
+- **Tools:** GitHub, VS Code, Android Studio
+
+---
+
+## 📦 Featured Projects
+
+### 🔗 [🛍 E-Commerce Flutter App](https://github.com/Ammar-Dev7/ecommerce-flutter)
+A complete e-commerce app built using Flutter & Firebase with authentication, cart, wishlist, and Firestore integration.
+
+### 🔗 [💬 Chat App with Firebase](https://github.com/Ammar-Dev7/chat-app-firebase)
+A real-time chat application using Firebase Auth and Firestore with beautiful chat UI.
+
+---
+
+## 📊 GitHub Stats
+
+![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammar-Dev7&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Dev7&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- [GitHub](https://github.com/Ammar-Dev7)
+
+---
+
+Thanks for visiting my profile! 🚀
