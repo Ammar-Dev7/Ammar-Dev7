@@ -35,8 +35,10 @@ A real-time chat application using Firebase Auth and Firestore with beautiful ch
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-- [GitHub](https://github.com/Ammar-Dev7)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ammar-shahid-96ab182a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+-
+-
+- - [GitHub](https://github.com/Ammar-Dev7)
 
 ---
 
